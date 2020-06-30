@@ -2,7 +2,7 @@
 
 > Projeto criado na  Next Level Week, da comunidade Rocketseat, onde podemos cadastrar pontos de coleta seletiva.
 
-[Website (Vercel)](https://projeto-e-coleta.now.sh/)
+[Website (Vercel)](https://ecoleta-static.vercel.app/)
 
 ## Caractéristicas utilizadas:
 
